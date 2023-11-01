@@ -1,5 +1,5 @@
 # Medical Specialty Classification
-Take home NLP assessment for multi-label text classification of medical transcripts to medical specialties
+NLP for multi-label text classification of medical transcripts to medical specialties
 
 This notebook can be run in Google Collab! 
 1. Add the csv dataset and the google collab notebook (the .ipynb file) to your google drive folder into the folder labelled 'Colab Notebook' (This should be auto generated.) Then open the collab notebook. 
